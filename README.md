@@ -1,4 +1,4 @@
-# MiniProjects
-Project1(Image Edge Detection) Description- I used Python(OpenCV) for edge detection for this project. Edge detection is an image processing technique used to identify boundaries or "edges" within an image. These edges represent points where the intensity of the image changes dramatically, such as transitions from light to dark areas, and often correspond to the outlines of objects or regions of interest. This technique is useful in real-world applications such as x-raying, self-driving cars, robotics, etc.
-The program reads the JPG image, and then uses Gaussian, Median, and Bialetral blurring via the OpenCV library to smooth out noise for more accurate results. Then, it applies canny edge detection. Finally, we use the matplotlib library to display the result which should be approximately as follows:
+Project 1: Image Edge Detection
+I used Python and OpenCV for this project to identify edges in images, which is crucial for applications like x-rays, self-driving cars, and robotics. The program reads a JPG image, applies Gaussian, Median, and Bilateral blurring to reduce noise, and then uses Canny edge detection. Finally, the result is displayed using Matplotlib.
+Required Libraries- cv2, matplotlib
 ![image](https://github.com/user-attachments/assets/ec4fa34b-4491-4151-8d1a-80928036e01a)
