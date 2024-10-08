@@ -4,7 +4,8 @@ I used Python and OpenCV for this project to identify edges in images, which is 
 Required Libraries- cv2, matplotlib
 ![image](https://github.com/user-attachments/assets/ec4fa34b-4491-4151-8d1a-80928036e01a)
 
-Project2 2: 
+Project2: Desktop GUI Tool for scrape the Web page Content
+
  This project is to create a desktop GUI tool where the user enters the URL of a webpage and the tool scrapes a certain element such as the webpage's title.
  Required Libraries: tkinter, BeautifulSoup, requests
  
